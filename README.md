@@ -24,7 +24,7 @@
 2. Baixar e inslatar o driver CP210x USB
 3. Conectar o ESP32 ao PC
 4. Selecionar a porta de comunicação com o ESP32
-5. Baixar e abrir o arquivo TCC_Automacao_Industrial.ino
+5. Baixar e abrir o arquivo TCC_Automacao_Industrial.ino no Arduino IDE
 6. Carregar o código para o ESP32
 
 

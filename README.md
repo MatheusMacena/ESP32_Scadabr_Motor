@@ -16,7 +16,7 @@
 * [ESP-WROOM-32](https://www.espressif.com/en/products/socs/esp32) 
 * [Driver CP210x USB](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers)
 
-## Passo a passo
+## Descarregar o sketch
 
 1. Baixar e instalar o Arduino IDE no site do Arduino
 2. Baixar e inslatar o driver CP210x USB

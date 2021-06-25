@@ -1,16 +1,4 @@
-/*
-  Autor: Matheus Macena Bastos
-  TCC de Pós-graduação em Automação Industrial: SCADA de baixo custo para motores elétricos utilizando o ESP32 e o Scadabr
-  Universidade Cândido Mendes - 2021
-  Referências:
-  http://github.com/andresarmento/modbus-arduino
-  http://forum.scadabr.com.br/t/modbus-ip-com-esp32/1678
-  https://www.filipeflop.com/blog/medidor-de-energia-eletrica-com-arduino/
-  https://www.filipeflop.com/blog/monitorando-temperatura-e-umidade-com-o-sensor-dht11/
-  https://circuitdigest.com/microcontroller-projects/mpu6050-gyro-sensor-interfacing-with-esp32-nodemcu-board
-  
-  
-*/
+
 // BIBLIOTECAS
 
 //Modbus

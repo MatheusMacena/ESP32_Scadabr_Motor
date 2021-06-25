@@ -1,6 +1,4 @@
-# TCC Automação Industrial
-  * TCC de Pós-graduação em Automação Industrial: SCADA de baixo custo para motores elétricos utilizando o ESP32 e o Scadabr.
-  * Universidade Cândido Mendes - 2021
+# SCADA de baixo custo para motores elétricos utilizando o ESP32 e o Scadabr.
 
 ## Autor: 
 *  **Matheus Macena Bastos**
